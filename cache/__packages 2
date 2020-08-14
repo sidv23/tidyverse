@@ -1,0 +1,16 @@
+base
+knitr
+tidyverse
+ggplot2
+tibble
+tidyr
+readr
+purrr
+dplyr
+stringr
+forcats
+nycflights13
+ggthemes
+png
+gridExtra
+broom
